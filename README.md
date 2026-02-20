@@ -26,6 +26,6 @@ and exports results to CSV and JSON.
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/ioc-extractor-go.git
+git clone https://github.com/ecedagdelen/ioc-extractor-go.git
 cd ioc-extractor-go
 go mod init ioc-extractor-go
